@@ -1,16 +1,16 @@
 # 💫 About Me
 🎓 Forestry graduate student at the **University of Eastern Finland**  
-🌍 I utilize **Remote Sensing**, **GIS**, and **Deep Learning** to analyze forest systems and infrastructure.  
-📘 My thesis applies multi-source **geospatial data** and **machine learning models** to predict 🌳 *tree growth* and 🚧 *forest road quality*.  
-🧠 I also developed a **deep learning instance segmentation model** for detecting tiny particles—applicable to **conveyor belt movement in recycling centers**.  
-🧭 Currently exploring **ArcGIS** and **Google Earth Engine** for advanced geospatial analytics.  
+🌍 I love to use **Remote Sensing**, **GIS**. Currently learning more about **Deep Learning** to analyze forest systems and infrastructure.  
+📘 My thesis applies multi-source **geospatial data** and **machine learning models** to predict 🌳 *soil type* and 🚧 *trafficability*.  
+🧠 I also developed a **deep learning instance segmentation model** for detecting tiny particles—applicable to **conveyor belt movement in recycling centers** in my internship.  
+🧭 Now exploring **ArcGIS** and **Google Earth Engine** for advanced geospatial analytics.  
 
 ---
 
 ## 🚀 What I Do
-🌱 **Forestry and Environmental Modeling**  
+🌱 **Forestry**  
 🛰️ **Remote Sensing & Satellite Data Analysis**  
-🤖 **Machine Learning / Deep Learning Applications**  
+🤖 **Machine Learning / Deep Learning**  
 🗺️ **Earth Observation, Monitoring & Decision Support**
 
 ---
