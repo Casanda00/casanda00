@@ -1,9 +1,8 @@
 # 💫 About Me
 🎓 Forestry graduate student at the **University of Eastern Finland**  
-🌍 I love to use **Remote Sensing**, **GIS**. Currently learning more about **Deep Learning** to analyze forest systems and infrastructure.  
+🌍 I love to use **Remote Sensing**, **GIS**.  
 📘 My thesis predicts soil type from canopy height (obtained from LiDAR) for forest roads
 🧠 I also developed a **deep learning instance segmentation model** for detecting tiny particles—applicable to **conveyor belt movement in recycling centers** in my internship.  
-🧭 Now exploring **ArcGIS** and **Google Earth Engine** for advanced geospatial analytics.  
 
 ---
 
