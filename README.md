@@ -1,12 +1,6 @@
-# 💫 About Me
-🎓 Forestry graduate student from the **University of Eastern Finland**  
-🌍 I love to use **Remote Sensing**, **GIS**.  
-📘 My thesis predicts soil type from canopy height (obtained from LiDAR) for forest roads
-🧠 I also developed a **deep learning instance segmentation model** for detecting tiny particles—applicable to **conveyor belt movement in recycling centers** in my internship.  
+https://timcgibson.space
 
----
-
-## 🚀 What I Do
+# 🚀 What I Do
 🌱 **Forestry**  
 🛰️ **Remote Sensing & Satellite Data Analysis**  
 🤖 **Machine Learning / Deep Learning**  
