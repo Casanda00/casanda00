@@ -6,6 +6,7 @@ Unpublished project: https://casanda00.github.io/elli-housing/
 🛰️ **Remote Sensing & Satellite Data Analysis**  
 🤖 **Machine Learning / Deep Learning**  
 🗺️ **Earth Observation, Monitoring & Decision Support**
+**Building solutions to simplify complex tasks**
 
 ---
 
